@@ -1,0 +1,10 @@
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/Board.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/Cell.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/Player.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/Game.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/edit_cache.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/rebuild_cache.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/list_install_components.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/install.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/install/local.dir
+/Users/umbertocrema/Desktop/Personale/Progetti/Monopoly/build/CMakeFiles/install/strip.dir

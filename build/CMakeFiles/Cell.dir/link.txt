@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libCell.a CMakeFiles/Cell.dir/src/Cell.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libCell.a
